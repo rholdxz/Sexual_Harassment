@@ -11,3 +11,9 @@ R.A. 7877, an "Act declaring Sexual Harassment Unlawful in the Employement, Educ
 1. in the premises of the workplace or office or of the school or training institution;
 2. in any place where the parties were found, as a result of work or education or training responsibilities or relations;
 3. at work or education- or training-related social functions.
+4. while on official business outside the office or school or training institution or during work or school or training-related travel;
+5. at official conferences, fora, symposia or training sessions; or
+6. by telephone, cellular phone, fax machine or electronic mail.
+
+## When is sexual harassment committed in the employment or work-related environment?
+1. the submission to or rehectio of the act or series of acts is used as basis for any employment decision (including but not limited to, matters related to hiring, promotion, raises in salary, job security, benefits and any other personnel action) affecting the applicant/employee; or 
