@@ -40,10 +40,12 @@ R.A. 7877, an "Act declaring Sexual Harassment Unlawful in the Employement, Educ
 ## What is The Classification Of Acts Of Sexual Harassment?
 ### Sexual Harassment is classified as:
 1. Grave Offenses (Dismissal)
+```  
   a. unwanted touching or private parts of the body (genitalia, buttocks, and breast);
   b. sexual assault;
   c. malicious touching;
   d. requesting for sexual
+```
 
 2. Less Grave Offenses (suspension for 30 days but not more than 6 months; Second Offense Dismisal)
 
