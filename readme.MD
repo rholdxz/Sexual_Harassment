@@ -50,3 +50,6 @@ R.A. 7877, an "Act declaring Sexual Harassment Unlawful in the Employement, Educ
 2. Less Grave Offenses (suspension for 30 days but not more than 6 months; Second Offense Dismisal)
 
 3. Light Offenses (1st Offense reprimand; 2nd Suspension not exceeding 30 days; 3rd Dismissal)
+
+
+Speaker: Atty Ruel Saniel (May 03, 2023)
