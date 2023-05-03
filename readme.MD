@@ -1,4 +1,4 @@
-""Date: April 03, 2023""
+"Date: April 03, 2023"
 # Republic Act no. 7877 An Act Declaring Sexual Harassment Unlawful In The Employment, Education or Training Environment, And For Other Purposes
 
 ## What is Sexual Harasmment?
