@@ -29,7 +29,7 @@ R.A. 7877, an "Act declaring Sexual Harassment Unlawful in the Employement, Educ
 4. Cooperates in the commision of sexual harassment by another through previous.
 
 
-### Committee On Decorum And Investigation (CODI) in Sexual Harassment Cases?
+# Committee On Decorum And Investigation (CODI) in Sexual Harassment Cases?
 
 ## What are the Functions of t he Committee in Sexual Harassment Cases?
 1. Receive complaints of sexual harassment;
