@@ -1,4 +1,4 @@
-""Date: April 03, 2023""
+Date: April 03, 2023
 # Republic Act no. 7877 An Act Declaring Sexual Harassment Unlawful In The Employment, Education or Training Environment, And For Other Purposes
 
 ## What is Sexual Harasmment?
@@ -17,3 +17,4 @@ R.A. 7877, an "Act declaring Sexual Harassment Unlawful in the Employement, Educ
 
 ## When is sexual harassment committed in the employment or work-related environment?
 1. the submission to or rehectio of the act or series of acts is used as basis for any employment decision (including but not limited to, matters related to hiring, promotion, raises in salary, job security, benefits and any other personnel action) affecting the applicant/employee; or 
+2. the act or series of acts have the purpose or effect of interfering with the complainant's work performance, or creating an intimidating, hostile or offensive work environment; or
