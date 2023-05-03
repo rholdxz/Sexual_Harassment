@@ -18,3 +18,15 @@ R.A. 7877, an "Act declaring Sexual Harassment Unlawful in the Employement, Educ
 ## When is sexual harassment committed in the employment or work-related environment?
 1. the submission to or rehectio of the act or series of acts is used as basis for any employment decision (including but not limited to, matters related to hiring, promotion, raises in salary, job security, benefits and any other personnel action) affecting the applicant/employee; or 
 2. the act or series of acts have the purpose or effect of interfering with the complainant's work performance, or creating an intimidating, hostile or offensive work environment; or
+
+## When is sexual harassment committed in an Education or Training Environment?
+1. The submission to or rejection of the act or series of acts is used as a basis for any decision affecting the complainant, including, but not limited to, the giving of a grade, the granting of honrs or a scholarship, the payment of a stipend or allowance, or the giving.
+
+## When is government Official/Employee Liable for Sexual Harassment?
+1. Directly participates in the execution of any act of sexual harassment as defined by the administrative disciplinary rules on Sexual Harassment Cases;
+2. Induces or directs another or others to commit sexual harassment as defined by these Rules;
+3. Cooperated in the commission of sexual harassment by another through an act without which the sexual harassment would not have been accomplished; or
+4. Cooperates in the commision of sexual harassment by another through previous.
+
+
+### Committee On Decorum And Investigation (CODI) in Sexual Harassment Cases?
